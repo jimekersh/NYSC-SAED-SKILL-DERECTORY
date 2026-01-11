@@ -1,7 +1,0 @@
-{
-  "name": "NYSC SAED Skills Directory",
-  "description": "A comprehensive platform for NYSC Skill Acquisition and Entrepreneurship Development (SAED) connecting Corpers with professional instructors through a LinkedIn-style directory and map-based search.",
-  "requestFramePermissions": [
-    "geolocation"
-  ]
-}

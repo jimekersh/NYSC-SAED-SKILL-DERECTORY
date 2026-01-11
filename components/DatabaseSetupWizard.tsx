@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { supabase } from '../lib/supabase';
 
@@ -222,7 +221,7 @@ const DatabaseSetupWizard: React.FC<Props> = ({ onRetry, onSkip }) => {
              </div>
              <ol className="list-decimal list-inside space-y-1 opacity-80">
                 <li>Copy the SQL script above.</li>
-                <li>Go to your Supabase project -> SQL Editor -> New Query.</li>
+                <li>Go to your Supabase project &rarr; SQL Editor &rarr; New Query.</li>
                 <li>Paste and click "Run".</li>
                 <li>Refresh this page and log in.</li>
              </ol>
